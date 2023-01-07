@@ -46,9 +46,16 @@ RTL realization
 
 ### Output:
 ### RTL
-### TIMING DIAGRAM
+![Screenshot_20230106_034616](https://user-images.githubusercontent.com/118352907/211159006-47a07560-b8a9-4db1-86ed-0667383a9f2b.png)
+![Screenshot_20230106_042624](https://user-images.githubusercontent.com/118352907/211159020-4f10d24d-56ce-467d-a266-d3e29143b570.png)
 
+### TIMING DIAGRAM
+![Screenshot_20230106_035147](https://user-images.githubusercontent.com/118352907/211159034-da6e81fd-0e8e-4f52-94e7-0050b4777cef.png)
+![Screenshot_20230106_043301](https://user-images.githubusercontent.com/118352907/211159044-4ce62876-d986-4c77-b387-2234282a7298.png)
 
 ### TRUTH TABLE 
+![Screenshot_20230107_092638](https://user-images.githubusercontent.com/118352907/211159575-0241472d-029c-416f-bc9a-195a5385b578.png)
+![Screenshot_20230107_092650](https://user-images.githubusercontent.com/118352907/211159586-37ce7a19-3d04-4b0e-8236-6c8567d95fd8.png)
 
 ### Result:
+Thus, the different digital IC's are studied and the truth table for different logic gates are verified.
